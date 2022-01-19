@@ -1,0 +1,66 @@
+body{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 18px;
+}
+
+.screen-container{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;    
+}
+
+.screen-title{
+  margin-top: 25px;
+  text-align: center;
+
+  font-family: Arial, Helvetica, sans-serif;  
+  font-size: 18px;
+}
+
+.screen-text-subForm{
+  font-family: Arial, Helvetica, sans-serif; 
+  font-size: small;
+  font-weight: bold;
+  font-style: italic;
+  color:#AAAAAA;
+}
+
+.screen-textScrolled-main{
+  display: flex;  
+  background-color: white;
+  justify-content: center;
+}
+.screen-textScrolled-buttons{
+  display: flex;
+  flex-direction: column;
+  margin-top: 20px;  
+  margin-left: 20px;
+  background-color: white;
+}
+
+.screen-textScrolled-container{
+  
+  margin-top: 20px;
+  
+
+  width: 600px;
+  height: 350px;
+  border:1px solid #4a90e2;
+  border-radius: 20px;
+  
+  font-size: smaller;
+  overflow: hidden;
+
+  background-color: white;
+
+  position:relative;
+}
+
+.screen-textScrolled-item{
+  position:absolute;
+ padding:20px;
+ color:darkslategray;
+}
+
+
+

@@ -1,0 +1,46 @@
+.account-container{  
+  display: flex;
+  flex-direction: column;
+  background-color: white;
+  height: 50px;
+}
+
+.account-item{
+  display:flex;
+  flex-direction: column;
+  justify-content: center;
+  align-content: center;
+  text-align: center;
+  border: 1px solid #4a90e2;  
+  border-radius: 10px;
+  width: 400px;
+  height:60px;
+  margin:auto;
+
+  background-color: white;
+  border: 1px solid #4a90e2; 
+  color:#4a90e2; 
+
+  cursor:pointer;
+  
+}
+
+.account-item:hover{
+  font-size: larger;
+  background-color: #dbe9f8;  
+}
+
+.account-item-title{
+  font-size: smaller;
+  font-weight: bold;
+  color: black;
+  background-color: lightsteelblue;
+  border-radius: 8px 8px 0 0;
+  border:0px  solid #4a90e2;
+  width:398px; 
+  margin: auto;
+}
+
+.account-item-account{
+  
+}

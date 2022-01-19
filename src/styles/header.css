@@ -1,0 +1,127 @@
+.header-main{
+  display: flex; 
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: flex-end;
+  align-items: center;
+
+  height: 90px;
+
+  background-color: white;
+  padding: 10px;
+}
+
+.header-item{ 
+  flex-grow: 3; 
+}
+
+.header-nav-main{
+  display: flex;
+  flex-direction: column;  
+  align-items: center;
+  height: 75px;
+  background-color: white;
+}
+
+.header-nav-main-title{
+  height: 25px;
+}
+
+.header-nav-items{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.header-nav-items-graph{
+  height: 10px;
+  width: 320px;
+  background-color: white;
+  
+}
+
+.header-nav-steps{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  height: 25px;
+  background-color: white;
+  
+}
+
+.header-nav-step{
+  margin-left: 5px;
+  margin-right: 5px;
+  background-color: white;
+  width:100px;
+  text-align: center;  
+}
+
+.header-nav-step-active{
+  color: #4a90e2;
+}
+
+.header-nav-step-inactive{
+  color: grey;
+}
+
+.header-progress {
+  width: 100%;
+  background: white;
+  border: 1px solid #dbe9f8;
+  border-radius: 20px;
+  height: 10px;
+}
+
+
+
+.header-progress .header-progress-bar {
+  height: 100%;
+
+  border-radius: 15px;
+  background: repeating-linear-gradient(
+    135deg,
+    #dbe9f8,
+    #dbe9f8 20px,
+    #dbe9f8 20px,
+    #dbe9f8 40px
+  );
+  
+}
+
+.header-progress-animation1{
+  animation: fill-bar-1 3s normal forwards;
+}
+.header-progress-animation2{
+  animation: fill-bar-2 3s normal forwards;
+}
+.header-progress-animation3{
+  animation: fill-bar-3 3s normal forwards;
+}
+
+@keyframes fill-bar-1 {
+  from {width: 5%;}
+  to {width: 40%;}
+}
+
+@keyframes fill-bar-2 {
+  from {width: 5%;}
+  to {width: 65%;}
+}
+
+@keyframes fill-bar-3 {
+  from {width: 5%;}
+  to {width: 100%;}
+}
+
+
+.text-header-title{
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+}
+
+.text-header-step{
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-weight: lighter;
+  font-size: small; 
+}

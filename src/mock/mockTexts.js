@@ -1,0 +1,65 @@
+export const mockExplicacionesGlickGo = `
+	<strong><font color='#4a90e2'>¿Qué es un préstamo?</font></strong>
+	<p>Es un contrato por el que <strong>el banco deja dinero al cliente a cambio de que el cliente le devuelva ese dinero en un futuro</strong> (lo más habitual es que sea haga mediante pagos mensuales). Generalmente, <strong>el cliente tendrá que pagar</strong>, además del dinero que le han dejado, <strong>un precio para que le dejen ese dinero</strong>. Este precio puede ser un tipo de interés o algún tipo de comisión. </p>
+	<strong><font color='#4a90e2'>¿Cuándo necesitaré un préstamo personal?</font></strong>
+	<p><strong>Puede necesitar pedir un préstamo</strong> (sea el que sea) cuando:</p>
+  <ol>
+    <li>No tenga dinero para pagar algo que quiera o necesita.</li>
+    <li>Aunque sí que tiene el dinero para pagar, lo tiene invertido y perder o retirar la inversión sería peor que pagar el precio del préstamo.</li>
+  </ol>
+	
+	<p>A partir de esta situación existen muchos productos diferentes con los que el banco deja dinero a clientes por lo que es importante saber cuál es el mejor para sus necesidades. A grandes rasgos habría estas 3 categorías:</p>
+  <ul>
+    <li>Préstamo hipotecario: Generalmente el tipo de interés será bajo. Se recomienda contratarlo cuando el cliente necesita <strong>mucho dinero (p.e. más de 60.000 eur) y tiene una vivienda que poder dejar en garantía</strong> (porque ya está en su propiedad o porque, precisamente, la va a comprar). Se acostumbra a <strong>devolver en periodos largos (p.e. entre 5 y 30 años).</strong></li>
+    <li>Préstamo personal: Generalmente el tipo de interés será medio. Se recomienda contratarlo cuando el cliente necesita una <strong>cantidad considerable de dinero</strong> (entre 1.000 y 60.000 eur) para comprar un bien (un coche, un electrodoméstico.) o pagar un servicio (un curso de inglés, hacer alguna mejora en una casa, un viaje.). Se acostumbra a <strong>devolver a medio plazo (entre 1 y 5 años).</strong></li>
+    <li>Tarjeta de crédito de pago a fin de mes:  Generalmente no se pagarán intereses. Se recomienda contratarlo para los gastos del día a día de forma que con la nómina se puedan cubrir a final de mes.</li>
+    <li>Tarjeta de crédito (que no sea de modalidad de pago a fin de mes): Generalmente el tipo de interés será alto. Se recomienda contratarlo cuando el cliente necesita <strong>pequeñas cantidades de dinero (entre 50 eur y 1.000 eur)</strong> para hacer compras algo más imprevistas que por una situación puntal no se llegan a pagar (por ejemplo, si hay que pagar compras o servicios imprevistos para los que no tenemos dinero y por los que no se quiere o no se puede esperar). Lo ideal sería devolverlo a <strong>corto plazo (entre 2 meses y un año).</strong></li>
+  </ul>
+	<p>Puede suceder que nos ofrezcan <strong>productos que no estén en estos parámetros</strong> como por ejemplo un microcrédito (que es un préstamo personal de pequeño importe, como 300 eur a devolver en 2 meses). <strong>No por ello ese producto no se adecuará a sus necesidades, pero sí que es muy necesario a) prestar especial atención a sus condiciones y, en particular, a su precio y b) comparar con otros productos.</strong> </p>
+	<p>En cualquier caso hay que tener en cuenta lo siguiente: <strong>como más riesgo asume el banco más precio va a cobrar por dejar el dinero.</strong> Así pues, en el <strong>préstamo hipotecario</strong> el banco tiene una garantía adicional (una casa) con lo que <strong>asume menos riesgo</strong> y, en consecuencia, generalmente, va a cobrar <strong>un tipo de interés inferior que en el préstamo personal.</strong> Por otro lado, en una <strong>tarjeta de crédito</strong> el cliente puede disponer constantemente de una cantidad de dinero (el límite de crédito de la tarjeta), lo que hace que <strong>el banco asuma mucho más riesgo que en un préstamo personal</strong>, en el que el banco deja la totalidad del dinero solo al principio y cada mes que el cliente paga recupera esa parte. En consecuencia, una <strong>tarjeta de crédito</strong>, normalmente, <strong>va a tener un tipo de interés superior a un préstamo personal.</strong> </p>	
+
+
+	<strong><font color='#4a90e2'>¿En qué tengo que fijarme sí o sí antes de contratar  un préstamo personal?</font></strong>
+  <br><br>
+	<p>Antes de contratar un préstamo <strong>hay que leerse detenidamente la Información Normalizada Europea (INE) y el contrato.</strong> No obstante, no nos engañemos: hay mucha información y los conceptos que se usan pueden no sernos familiares. Por eso aquí le indicamos <strong>qué puntos tiene que conocer sí o sí antes de contratar:</strong></p>
+	<p><strong>1.- Cuánto dinero le va a prestar el banco:</strong> entre tanto número puede acabar dudando de qué cantidad le van a prestar. <strong>Consulte el concepto: "importe total del crédito/préstamo"</strong> para saber cuántos Euros le va a dar el Banco.</p>
+	<p><strong>2.- Durante cuánto tiempo le van a prestar ese dinero y cómo va a tener que devolverlo: </strong> es importante saber cuándo va a ser el último pago del préstamo (vencimiento final) y si el pago hay que hacerlo todo de golpe a esa fecha o hay que pagarlo mensualmente. Generalmente en los préstamos personales se paga una cuota mensualmente.</p>
+	<p><strong>3.- El precio del contrato:</strong> el banco, generalmente, le va a cobrar un precio por dejarle el dinero. Puede ser cobrándole un tipo de interés, una comisión de apertura. lo importante es que <strong>consulte la TAE (Tasa Anual Equivalente).</strong> La TAE le va a indicar, en porcentaje anualizado, todos los gastos y comisiones de su préstamo. <strong>Cuánto más alta sea la TAE más caro es el préstamo.</strong> La TAE es importante, pero es difícil saber cuánto dinero realmente se va a tener que pagar solo con ella. Para saber el <strong>total de Euros que tendrá que pagar al banco por el préstamo (que muy probablemente vayan a ser más que los que el banco le ha dejado) consulte el concepto "Importe Total adeudado por el consumidor".</strong></p>
+	<p><strong>4.- Si hay otros gastos a tener en cuenta:</strong> por ejemplo, en caso de que haya que ir al notario hay unos gastos que usted tendrá que pagar. Salvo que en el contrato se diga lo contrario tenga en cuenta que: </p>
+	<p>a)	No es obligatoria la contratación de ningún seguro para la obtención del préstamo y, si decides no contratarlo, esta decisión no tendrá ninguna consecuencia en el precio ni en las condiciones del préstamo.</p>
+	<p>b)	SÍ es obligatorio mantener abierta durante toda la duración del préstamo una cuenta  en CaixaBank en la que se abonará el préstamo y se realizarán los cobros y pagos que se deriven del mismo. Para ello puede designar una cuenta que ya tenga en CaixaBank o contratar una nueva para asociarla al préstamo. Si nos lo pide, esta cuenta asociada será gratuita si la utiliza exclusivamente para el pago de las obligaciones derivadas del préstamo.</p>
+	<p><strong>5.- Si para obtener el préstamo en las condiciones que se indican hay que contratar algún otro producto:</strong> puede que el banco le ofrezca un mejor tipo de interés si contrata un seguro u otro producto con el préstamo. En estos casos tendrá que informarse muy bien de cuáles son esos requisitos de bonificación y de las consecuencias de no cumplirlos durante la vigencia del préstamo para evitar que le cobren más de lo que podría esperar.</p>
+<br>`;
+
+export const mockCondicionesSeviam = `
+	<strong>ADVERTENCIAS</strong>
+	<p>
+	Este documento se entrega para informarle de las condiciones del préstamo.
+	</p>
+	<p>
+	No conlleva para Caixabank SA, la obligación de concederle un préstamo.  La información que podrás encontrar aquí tiene carácter meramente orientativo y no es personalizada.
+	LA OFERTA PERSONALIZADA POSTERIOR, PUEDE SER DISTINTA en función del producto en concreto o como resultado de la obtención de la información sobre sus condiciones financieras.
+	</p>
+	<p>
+	SI DECIDE SOLICITAR EL PRÉSTAMO, le informaremos de las condiciones concreatas que CAIXABANK le ofrece para que pueda revisarlas detenidamente y compararlas con otras ofertas
+	similares ANTES DE CONTRATAR
+	</p>
+	<p>
+	La información resaltada en <strong>negrita</strong> es especialmente relevante.
+	</p>
+	<p>Puede suceder que nos ofrezcan <strong>productos que no estén en estos parámetros</strong> como por ejemplo un microcrédito (que es un préstamo personal de pequeño importe, como 300 eur a devolver en 2 meses). <strong>No por ello ese producto no se adecuará a sus necesidades, pero sí que es muy necesario a) prestar especial atención a sus condiciones y, en particular, a su precio y b) comparar con otros productos.</strong> </p>
+	<p>En cualquier caso hay que tener en cuenta lo siguiente: <strong>como más riesgo asume el banco más precio va a cobrar por dejar el dinero.</strong> Así pues, en el <strong>préstamo hipotecario</strong> el banco tiene una garantía adicional (una casa) con lo que <strong>asume menos riesgo</strong> y, en consecuencia, generalmente, va a cobrar <strong>un tipo de interés inferior que en el préstamo personal.</strong> Por otro lado, en una <strong>tarjeta de crédito</strong> el cliente puede disponer constantemente de una cantidad de dinero (el límite de crédito de la tarjeta), lo que hace que <strong>el banco asuma mucho más riesgo que en un préstamo personal</strong>, en el que el banco deja la totalidad del dinero solo al principio y cada mes que el cliente paga recupera esa parte. En consecuencia, una <strong>tarjeta de crédito</strong>, normalmente, <strong>va a tener un tipo de interés superior a un préstamo personal.</strong> </p>	
+
+
+	<strong><font color='#4a90e2'>¿En qué tengo que fijarme sí o sí antes de contratar  un préstamo personal?</font></strong>
+  <br><br>
+	<p>Antes de contratar un préstamo <strong>hay que leerse detenidamente la Información Normalizada Europea (INE) y el contrato.</strong> No obstante, no nos engañemos: hay mucha información y los conceptos que se usan pueden no sernos familiares. Por eso aquí le indicamos <strong>qué puntos tiene que conocer sí o sí antes de contratar:</strong></p>
+	<p><strong>1.- Cuánto dinero le va a prestar el banco:</strong> entre tanto número puede acabar dudando de qué cantidad le van a prestar. <strong>Consulte el concepto: "importe total del crédito/préstamo"</strong> para saber cuántos Euros le va a dar el Banco.</p>
+	<p><strong>2.- Durante cuánto tiempo le van a prestar ese dinero y cómo va a tener que devolverlo: </strong> es importante saber cuándo va a ser el último pago del préstamo (vencimiento final) y si el pago hay que hacerlo todo de golpe a esa fecha o hay que pagarlo mensualmente. Generalmente en los préstamos personales se paga una cuota mensualmente.</p>
+	<p><strong>3.- El precio del contrato:</strong> el banco, generalmente, le va a cobrar un precio por dejarle el dinero. Puede ser cobrándole un tipo de interés, una comisión de apertura. lo importante es que <strong>consulte la TAE (Tasa Anual Equivalente).</strong> La TAE le va a indicar, en porcentaje anualizado, todos los gastos y comisiones de su préstamo. <strong>Cuánto más alta sea la TAE más caro es el préstamo.</strong> La TAE es importante, pero es difícil saber cuánto dinero realmente se va a tener que pagar solo con ella. Para saber el <strong>total de Euros que tendrá que pagar al banco por el préstamo (que muy probablemente vayan a ser más que los que el banco le ha dejado) consulte el concepto "Importe Total adeudado por el consumidor".</strong></p>
+	<p><strong>4.- Si hay otros gastos a tener en cuenta:</strong> por ejemplo, en caso de que haya que ir al notario hay unos gastos que usted tendrá que pagar. Salvo que en el contrato se diga lo contrario tenga en cuenta que: </p>
+	<p>a)	No es obligatoria la contratación de ningún seguro para la obtención del préstamo y, si decides no contratarlo, esta decisión no tendrá ninguna consecuencia en el precio ni en las condiciones del préstamo.</p>
+	<p>b)	SÍ es obligatorio mantener abierta durante toda la duración del préstamo una cuenta  en CaixaBank en la que se abonará el préstamo y se realizarán los cobros y pagos que se deriven del mismo. Para ello puede designar una cuenta que ya tenga en CaixaBank o contratar una nueva para asociarla al préstamo. Si nos lo pide, esta cuenta asociada será gratuita si la utiliza exclusivamente para el pago de las obligaciones derivadas del préstamo.</p>
+	<p><strong>5.- Si para obtener el préstamo en las condiciones que se indican hay que contratar algún otro producto:</strong> puede que el banco le ofrezca un mejor tipo de interés si contrata un seguro u otro producto con el préstamo. En estos casos tendrá que informarse muy bien de cuáles son esos requisitos de bonificación y de las consecuencias de no cumplirlos durante la vigencia del préstamo para evitar que le cobren más de lo que podría esperar.</p>
+	
+`
